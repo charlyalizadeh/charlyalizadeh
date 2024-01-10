@@ -1,16 +1,31 @@
-### Hi there 👋
+# Article
 
-<!--
-**charlyalizadeh/charlyalizadeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* [How to Learn the Optimal Clique Decompositions in Solving Semidefinite Relaxations for OPF](https://ieeexplore.ieee.org/abstract/document/9891912/)
 
-Here are some ideas to get you started:
+# Datascience and AI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* [Minimax algorithm to play the game of TicTacChess](https://github.com/charlyalizadeh/TicTacChess) Rust
+* [Chordal graph database generation in the context of Powerflow Network](https://github.com/charlyalizadeh/PowerFlowNetworks) Julia
+* [Graph Neural Network to evaluate the quality of a chordal extension of a Powerflow Network](https://github.com/charlyalizadeh/PowerFlowNetworksGNN) Python
+* [Machine learning models to evaluate the quality of a chordal extension of a Powerflow Network](https://github.com/charlyalizadeh/OPFpred) Python
+
+# Game
+
+* [Implementation of the NES version of Tetris in SFML](https://github.com/charlyalizadeh/NESTetris) C++
+* [Implementation of Pong in SFML](https://github.com/charlyalizadeh/ChPong) C++
+
+# Art
+
+* [Pattern generation with p5js](https://github.com/charlyalizadeh/p5_pattern) Javascript
+
+# Web development
+
+* [React app to generate Hicks Hexagon pattern](https://github.com/charlyalizadeh/hickshexagongui)
+
+# Other
+
+* [printf implementation](https://github.com/charlyalizadeh/ft_printf) C
+* [get_next_line implementation](https://github.com/charlyalizadeh/get_next_line) C
+* [Triangulation algorithms](https://github.com/charlyalizadeh/Triangulation.jl)
+* [Utility to generate NES tetromino sprite sheets](https://github.com/charlyalizadeh/TetrominoesMaker)
+
