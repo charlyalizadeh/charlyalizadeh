@@ -20,12 +20,11 @@
 
 # Web development
 
-* [React app to generate Hicks Hexagon pattern](https://github.com/charlyalizadeh/hickshexagongui)
+* [React app to generate Hicks Hexagon pattern](https://github.com/charlyalizadeh/hickshexagongui) Javascript/HTML
 
 # Other
 
 * [printf implementation](https://github.com/charlyalizadeh/ft_printf) C
 * [get_next_line implementation](https://github.com/charlyalizadeh/get_next_line) C
 * [Triangulation algorithms](https://github.com/charlyalizadeh/Triangulation.jl)
-* [Utility to generate NES tetromino sprite sheets](https://github.com/charlyalizadeh/TetrominoesMaker)
-
+* [Utility to generate NES tetromino sprite sheets](https://github.com/charlyalizadeh/TetrominoesMaker) Python
