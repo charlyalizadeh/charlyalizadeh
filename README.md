@@ -9,7 +9,7 @@
 * [Graph Neural Network to evaluate the quality of a chordal extension of a Powerflow Network](https://github.com/charlyalizadeh/PowerFlowNetworksGNN) Python
 * [Machine learning models to evaluate the quality of a chordal extension of a Powerflow Network](https://github.com/charlyalizadeh/OPFpred) Python
 
-# Game
+# Game Development
 
 * [Implementation of the NES version of Tetris in SFML](https://github.com/charlyalizadeh/NESTetris) C++
 * [Implementation of Pong in SFML](https://github.com/charlyalizadeh/ChPong) C++
