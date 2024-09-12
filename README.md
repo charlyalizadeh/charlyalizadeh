@@ -3,6 +3,10 @@
 * [How to Learn the Optimal Clique Decompositions in Solving Semidefinite Relaxations for OPF](https://ieeexplore.ieee.org/abstract/document/9891912/)
 * [Associations between illicit drug use and coronary angiographic findings in patients with acute coronary syndrome](https://www.sciencedirect.com/science/article/pii/S187521362400278X)
 
+# Compute Graphic
+
+* [Maze generation with OpenGL](https://github.com/charlyalizadeh/OpenGLMaze)
+
 # Datascience and AI
 
 * [Minimax algorithm to play the game of TicTacChess](https://github.com/charlyalizadeh/TicTacChess) Rust
