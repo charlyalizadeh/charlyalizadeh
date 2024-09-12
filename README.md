@@ -5,7 +5,7 @@
 
 # Compute Graphic
 
-* [Maze generation with OpenGL](https://github.com/charlyalizadeh/OpenGLMaze)
+* [Maze generation with OpenGL](https://github.com/charlyalizadeh/OpenGLMaze) C++
 
 # Datascience and AI
 
