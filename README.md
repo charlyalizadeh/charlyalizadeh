@@ -31,5 +31,6 @@
 
 * [printf implementation](https://github.com/charlyalizadeh/ft_printf) C
 * [get_next_line implementation](https://github.com/charlyalizadeh/get_next_line) C
+* [Solver for SDP relaxation of Optimal Power Flow problems](https://github.com/charlyalizadeh/OPFSDP.jl) Julia
 * [Triangulation algorithms](https://github.com/charlyalizadeh/Triangulation.jl) Julia
 * [Utility to generate NES tetromino sprite sheets](https://github.com/charlyalizadeh/TetrominoesMaker) Python
