@@ -34,3 +34,4 @@
 * [Solver for SDP relaxation of Optimal Power Flow problems](https://github.com/charlyalizadeh/OPFSDP.jl) Julia
 * [Triangulation algorithms](https://github.com/charlyalizadeh/Triangulation.jl) Julia
 * [Utility to generate NES tetromino sprite sheets](https://github.com/charlyalizadeh/TetrominoesMaker) Python
+* [My config files](https://github.com/charlyalizadeh/config)
