@@ -3,6 +3,10 @@
 * [How to Learn the Optimal Clique Decompositions in Solving Semidefinite Relaxations for OPF](https://ieeexplore.ieee.org/abstract/document/9891912/)
 * [Associations between illicit drug use and coronary angiographic findings in patients with acute coronary syndrome](https://www.sciencedirect.com/science/article/pii/S187521362400278X)
 
+# Network
+
+* [Packet origin vizualiser](https://github.com/charlyalizadeh/packet_viz)
+
 # Computer Graphic
 
 * [Maze generation with OpenGL](https://github.com/charlyalizadeh/OpenGLMaze) C++
@@ -14,18 +18,9 @@
 * [Graph Neural Network to evaluate the quality of a chordal extension of a Powerflow Network](https://github.com/charlyalizadeh/PowerFlowNetworksGNN) Python
 * [Machine learning models to evaluate the quality of a chordal extension of a Powerflow Network](https://github.com/charlyalizadeh/OPFpred) Python
 
-# Game Development
-
-* [Implementation of the NES version of Tetris in SFML](https://github.com/charlyalizadeh/NESTetris) C++
-* [Implementation of Pong in SFML](https://github.com/charlyalizadeh/ChPong) C++
-
 # Art
 
 * [Pattern generation with p5js](https://github.com/charlyalizadeh/p5_pattern) Javascript
-
-# Web development
-
-* [React app to generate Hicks Hexagon pattern](https://github.com/charlyalizadeh/hickshexagongui) Javascript/HTML
 
 # Other
 
